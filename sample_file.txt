@@ -1,5 +1,0 @@
-doe "a deer, a female deer"
-ray"a drop of golden sun"
-pi3.14159
-xmastrue
-french-hens3

@@ -1,5 +1,6 @@
-doe: "a deer, a female deer"
-ray: "a drop of golden sun"
-pi: 3.14159
-xmas: true
-french-hens: 3
+servers:
+  - google.com
+  - reddit.com
+  - yahoo.com
+  - linkedin.com
+  - facebook.com

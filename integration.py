@@ -28,7 +28,7 @@ transmitter = pingparsing.PingTransmitter()
 transmitter.count = 4  
 
 for server in servers:
-    print(f"\nPinging {server}...")
+    print(f"\nPinging {server} {transmitter.count} times...")
     transmitter.destination = server
     result = transmitter.ping()
     print(json.dumps(ping_parser.parse(result).as_dict(), indent=4))

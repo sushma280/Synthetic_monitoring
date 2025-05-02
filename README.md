@@ -127,11 +127,12 @@ Access Prometheus at `http://localhost:9090`.
 ## 🧪 Sample Metrics Output
 
 ```text
-rtt_minimum{server="8.8.8.8"} 6.0
-rtt_average{server="8.8.8.8"} 13.0
-rtt_maximum{server="8.8.8.8"} 23.0
-packet_loss_rate{server="8.8.8.8"} 0.0
+rtt_maximum{server="google.com"} 8.0
+rtt_maximum{server="reddit.com"} 6.0
+rtt_maximum{server="flipkart.com"} 259.0
+rtt_maximum{server="asos.com"} 9.0
 ```
+<img width="291" alt="image" src="https://github.com/user-attachments/assets/58fc9c03-07ee-476e-a396-996c3bf9aa2d" />
 
 ---
 

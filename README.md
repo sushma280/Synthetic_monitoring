@@ -3,6 +3,7 @@
 
 This project is a simple synthetic monitoring system I built to **track server health** using Python, Prometheus, and Grafana. It collects **RTT**, **latency**, and **packet loss** metrics by pinging target servers and visualizing the data in real-time.
 
+![ChatGPT Image May 2, 2025, 11_09_05 AM](https://github.com/user-attachments/assets/d9ec2a82-2129-42c3-8884-efdd07e26e3d)
 
 
 ---

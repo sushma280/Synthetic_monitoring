@@ -3,7 +3,7 @@
 
 This project is a simple synthetic monitoring system I built to **track server health** using Python, Prometheus, and Grafana. It collects **RTT**, **latency**, and **packet loss** metrics by pinging target servers and visualizing the data in real-time.
 
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/58aabb64-5392-4e88-8f26-7a7c6020010d" />
+
 
 ---
 
@@ -120,6 +120,7 @@ Access Prometheus at `http://localhost:9090`.
   - RTT min/avg/max
   - Packet loss trends
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/58aabb64-5392-4e88-8f26-7a7c6020010d" />
 ---
 
 ## 🧪 Sample Metrics Output
